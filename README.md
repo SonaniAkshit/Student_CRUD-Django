@@ -38,7 +38,7 @@ student_crud/
 
 ---
 
-## ⚙️ Step-by-Step Instructions to Run
+<!-- ## ⚙️ Step-by-Step Instructions to Run
 
 ### ✅ Step 1: Install Django
 
@@ -264,4 +264,4 @@ Open in browser: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## ✅ Done!
 
-This is a complete CRUD project using Django.
+This is a complete CRUD project using Django. -->
